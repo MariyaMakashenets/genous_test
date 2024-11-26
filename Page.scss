@@ -3,10 +3,24 @@
 @import "scss/utils/fonts";
 @import "scss/utils/variables";
 @import "scss/utils/utils";
+@import "scss/utils/texts";
 
 @import "scss/base";
 
 @import "scss/components/buttons";
 @import "scss/components/links";
-@import "scss/components/header";
-@import "scss/components/hero";
+@import "scss/components/chef-card";
+@import "scss/components/format_card";
+
+@import "scss/layout/header";
+@import "scss/layout/hero";
+@import "scss/layout/advantages";
+@import "scss/layout/sections";
+@import "scss/layout/traditions";
+@import "scss/layout/chefs";
+@import "scss/layout/formats";
+@import "scss/components/carousels";
+@import "scss/layout/contacts";
+@import "scss/layout/footer";
+@import "scss/layout/modal";
+@import "scss/layout/forms";
